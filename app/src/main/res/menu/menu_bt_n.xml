@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/Profile"
+        android:icon="@drawable/user"
+        android:title="Profile" />
+    <item
+        android:id="@+id/Location"
+        android:icon="@drawable/location"
+        android:title="Location" />
+    <item
+        android:id="@+id/Events"
+        android:icon="@drawable/calendar"
+        android:title="Events " />
+    <item
+        android:id="@+id/Explore"
+        android:icon="@drawable/direction"
+        android:title="Explore" />
+
+</menu>

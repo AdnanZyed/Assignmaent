@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <item
+        android:id="@+id/Profile"
+        android:icon="@drawable/user"
+        android:title="Profile" />
+
+
+    <item
+
+        android:id="@+id/Message"
+        android:icon="@drawable/message"
+        android:title="Message" /><item
+
+    android:id="@+id/calender"
+    android:icon="@drawable/calendar"
+    android:title="Calender" />
+
+    <item
+        android:id="@+id/Book_mark"
+        android:icon="@drawable/bookmark"
+        android:title="Book_mark"
+
+        />
+    <item
+        android:id="@+id/Contact_Us"
+        android:icon="@drawable/contact"
+        android:title="Contact_Us"
+
+        />
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/settings"
+        android:title="Settings" />
+
+
+    <item
+        android:id="@+id/Sign_Out"
+        android:icon="@drawable/log"
+        android:title="Sign Out" />
+
+
+</menu>
